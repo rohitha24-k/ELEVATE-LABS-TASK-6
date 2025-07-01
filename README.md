@@ -1,4 +1,4 @@
-#  README: Subqueries and Nested Queries in SQL
+# Subqueries and Nested Queries in SQL
 
 ## Objective
 
